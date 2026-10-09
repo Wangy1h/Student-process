@@ -1,4 +1,4 @@
-# Drift and scale inference for common-scale Student-t processes
+# Drift and scale inference for Student-t processes
 
 Python code and saved simulation outputs for the manuscript of this title.
 The model is
